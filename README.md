@@ -1,16 +1,25 @@
-## Hi there 👋
+#Iago Lucena 
 
-<!--
-**IagoVian4/IagoVian4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+ - Vivendo e transformando dados em insights por meio de análises, dashboards e visualizações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+
+- Python
+- SQL
+- Pandas
+- Power BI
+- Excel
+- Streamlit
+- Git & GitHub
+
+## Objetivo
+
+Construir projetos práticos, aprimorar minhas habilidades em Análise de Dados e contribuir com soluções baseadas em dados.
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/
+iago-lucena-90594523a
+
